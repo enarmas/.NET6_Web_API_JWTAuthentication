@@ -9,7 +9,6 @@ using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
-//commentaire pour tester Git
 // Add services to the container.
 
 builder.Services.AddControllers();
